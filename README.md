@@ -2,7 +2,7 @@
 
  ##
 
-- 🔭 Hoje estou desenvolvendo um projeto mobile em React Native
+- 🔭 Atualmente estou desenvolvendo um projeto mobile em React Native
 - 🌱 Estou estudando JavaScript, Java e SQL
 
 ## 🛠 Ferramentas e Linguagens
